@@ -1,0 +1,14 @@
+ <connectionStrings>
+    <add name="ConnectionStrings" connectionString="DATA SOURCE=arenalive;PASSWORD=dmsview123;PERSIST SECURITY INFO=True;USER ID=dmsview;" providerName="Oracle.DataAccess.Client" />
+  <add name="conoracle_PushApi" connectionString="DATA SOURCE=arenalive;PASSWORD=dmsview123;PERSIST SECURITY INFO=True;USER ID=dmsview;" providerName="Oracle.DataAccess.Client" />
+  </connectionStrings>
+
+
+NPAD
+ <add name="conoracle" connectionString="DATA SOURCE=nexalive;PASSWORD=dmsview123;PERSIST SECURITY INFO=True;USER ID=dmsview;" providerName="Oracle.DataAccess.Client" />
+ <add name="conoracle_PushApi" connectionString="DATA SOURCE=nexalive;PASSWORD=dmsview123;PERSIST SECURITY INFO=True;USER ID=dmsview;" providerName="Oracle.DataAccess.Client" />
+
+Test
+ <connectionStrings>
+    <add name="ConnectionStrings" connectionString="DATA SOURCE=arenalive;PASSWORD=dmsview123;PERSIST SECURITY INFO=True;USER ID=dmsview;" providerName="Oracle.DataAccess.Client" />
+  </connectionStrings>
